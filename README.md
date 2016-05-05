@@ -39,6 +39,7 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
   What could be the particular reason for the drastic increase in the issue of tourist visa during 2011-12? Does any particular optimistic projection happened? 
 
 >What relationships do you notice?
+
   There was an increase in relationship till 2012 and later gradual drop towards 2013.
   
 ### Interview #2
