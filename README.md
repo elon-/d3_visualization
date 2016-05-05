@@ -7,9 +7,9 @@ This data visualization has a comperhensive study of Various Visa Issued to the 
 
 I would be answering the following question:
 
-  1.Do people travel to india just for tourism, or india is a popular destination for business and education.
-  2.Did the cricket world cup in 2010 brought more people and boosted tourism in the nation.
-  3.Why does India building world’s most expensive wall at its border.
+  1. Do people travel to india just for tourism, or india is a popular distination for business and education.
+  2. Did the cricket world cup in 2010 brought more people and boosted tourism in the nation.
+  3. Why does India building world’s most expensive wall at its border.
 
 ## Exploratory Data Analysis and Cleaning (Python-pandas):
 
@@ -31,9 +31,13 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
 
 ### Interview #1
 >What do you notice in the visualization?
-  It is easy to interpret, I see a considerable increase in the issue of visa in 2012 and a drop after that, the explanation is over whelming on it. To me, line graph on annual visa approval for different categories & bar graph on top 5 countries would be more appealing. 
+>
+  It is easy to interpret, I see a considerable increase in the issue of visa in 2012 and a drop after that, the explanation is over whelming on it. To me, line graph on annual visa approval for different categories & bar graph on top 5 countries would be more appealing.
+  >
 >What questions do you have about the data?
+>
   What could be the particular reason for the drastic increase in the issue of tourist visa during 2011-12? Does any particular optimistic projection happened? 
+
 >What relationships do you notice?
   There was an increase in relationship till 2012 and later gradual drop towards 2013.
   
