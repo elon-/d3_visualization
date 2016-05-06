@@ -1,0 +1,85 @@
+body{
+	font-family: 'Lora', serif;	
+  	
+    border: 3px solid #73AD21;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 70%;
+  }
+}
+h1{
+	
+
+}
+.introduction  {
+	font-family: 'Lora', serif;
+	font-size:20px;	
+	
+}
+
+span{
+	font-size:20px
+}
+.radio{
+	font-size: 20px;
+	left: 10%;
+}
+p{
+	text-align: justify;
+	font-family: 'Droid Sans', sans-serif;
+	
+}
+
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 100px;					
+    height: 50px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+.line_chart{
+	margin-top: 1.2cm;
+}
+.line_chart_text{
+	font-size:15px;
+	font-family: 'Lora', serif;
+}
+
+
+.different_visa{
+	font-size:20px;
+}
+
+.top_country{
+	font-size:20px;
+}
+.y path{
+	fill:none;
+	stroke:black;
+	stroke-opacity=0.8;
+	
+}
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.y_label, 
+.axis text {
+
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.x.axis path {
+  display: none;
+}
