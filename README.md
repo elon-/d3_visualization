@@ -43,14 +43,14 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
   There was an increase in relationship till 2012 and later gradual drop towards 2013.
   
 ### Interview #2
-What do you notice in the visualization?
-Overall I noticed that there is positive trend of number of people coming to india for tourism.
+>What do you notice in the visualization?
+>Overall I noticed that there is positive trend of number of people coming to india for tourism.
+>
+>What relationships do you notice?
+>One relationship I specifically noticed is sports like cricket attracting people from bangladesh,uk and srilanka.
 
-What relationships do you notice?
-One relationship I specifically noticed is sports like cricket attracting people from bangladesh,uk and srilanka.
-
-Is there something you don’t understand in the graphic?
-Can you make stacked graph  more illustrative,because may be art surgocacy,visitor ,student visas issued are very less but when seeing the graph we may get pattern but it will be good if i can see number of visas issued as something like tooltip for these as well.
+>Is there something you don’t understand in the graphic?
+>Can you make stacked graph  more illustrative,because may be art surgocacy,visitor ,student visas issued are very less but when seeing the graph we may get pattern but it will be good if i can see number of visas issued as something like tooltip for these as well.
 
  ### interview #3
  What do you notice in the visualization?
