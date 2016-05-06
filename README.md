@@ -58,27 +58,27 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
  ### interview #3
  >What do you notice in the visualization?
  
- As given in the visualization, i notice that in the compared 4 years ,the year 2012 was the year with highest number of visas stamped by indian embassy to all  the nationalities.
+ >As given in the visualization, i notice that in the compared 4 years ,the year 2012 was the year with highest number of visas stamped by indian embassy to all  the nationalities.
  
  >What questions do you have about the data?
  
- Is there any specific reason for 2012 to be the year for more number of foreigners to step into india.
+ >Is there any specific reason for 2012 to be the year for more number of foreigners to step into india.
 
  >What relationships do you notice?
  
- The relationships i notice that of all the visa categories ,tourism leads by huge marigin.it is understandable as india is considered a tourist nation for many foreigners.
+ >The relationships i notice that of all the visa categories ,tourism leads by huge marigin.it is understandable as india is considered a tourist nation for many foreigners.
  
  >What do you think is the main takeaway from this visualization?
  
- The main takeaway for me will be as business visa increase there is chance for more number of investments in india which is good for the nation.
+ >The main takeaway for me will be as business visa increase there is chance for more number of investments in india which is good for the nation.
  
  >Is there something you don’t understand in the graphic?
  
- As far as graph is concerned,it is pretty much clear.
+ >As far as graph is concerned,it is pretty much clear.
  
  
  ## Post-feedback
  
- Alot of question behind the reasons was answered with facts from google research.
+ 1. Alot of question behind the reasons was answered with facts from google research.
  
- The grouped bar was added with tool tip so that the graph looks more informatic. 
+ 2. The grouped bar was added with tool tip so that the graph looks more informatic. 
