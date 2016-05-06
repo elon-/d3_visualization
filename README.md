@@ -26,7 +26,7 @@ I decided to improve  the visualization and add some intration using D3.js and D
   3. I thought both stacked bar and grouped bar could help in understanding the count on differnet visa category approved. As stacked bar was very usefully as comparision of one category with other and group bar can give a good insight on how much each type of visa counts. I did included both graph and add some intraction during transtion from one to another.
   4. I added text to support my finding and answer the questions with the help graphs.
   
-## Feedback
+## Feedback[intial project link](http://bl.ocks.org/elon-/raw/e7c275826d5d4d6ca78ee1a0fbc86890/)
 I intervied 3 individual and askinng for their feedback on the data visualization with a small set of question
 
 ### Interview #1
@@ -77,7 +77,7 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
  >As far as graph is concerned,it is pretty much clear.
  
  
- ## Post-feedback
+## Post-feedback [Final project link](http://bl.ocks.org/elon-/raw/06dd9405fd22a85a29eee22a894a075b/)
  
  1. Alot of question behind the reasons was answered with facts from google research.
  
