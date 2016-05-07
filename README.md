@@ -55,7 +55,7 @@ I intervied 3 individual and askinng for their feedback on the data visualizatio
 
 >Can you make stacked graph  more illustrative,because may be art surgocacy,visitor ,student visas issued are very less but when seeing the graph we may get pattern but it will be good if i can see number of visas issued as something like tooltip for these as well.
 
- ### interview #3
+### interview #3
  >What do you notice in the visualization?
  
  >As given in the visualization, i notice that in the compared 4 years ,the year 2012 was the year with highest number of visas stamped by indian embassy to all  the nationalities.
